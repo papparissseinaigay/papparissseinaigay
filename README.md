@@ -13,9 +13,9 @@
  li {
  display: inline-block;
  height: 1.2em;
- margin: 2px;
+ margin: 4px;
  padding: 10px;
- border: 4px double coral;
+ border: 5px double coral;
  background-color: cyan;
  }
  a:active {
